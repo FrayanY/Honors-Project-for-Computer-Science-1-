@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serpe\\source\\repos\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8C7186-51A8-4A69-900B-758C84A9C009}|ConsoleApplication1.vcxproj|C:\\Users\\serpe\\source\\repos\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8C7186-51A8-4A69-900B-758C84A9C009}|ConsoleApplication1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8C7186-51A8-4A69-900B-758C84A9C009}|ConsoleApplication1.vcxproj|C:\\Users\\serpe\\source\\repos\\ConsoleApplication1\\HAHNDA WuduawudWUA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC8C7186-51A8-4A69-900B-758C84A9C009}|ConsoleApplication1.vcxproj|solutionrelative:HAHNDA WuduawudWUA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\serpe\\source\\repos\\ConsoleApplication1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\serpe\\source\\repos\\ConsoleApplication1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T05:27:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HAHNDA WuduawudWUA.cpp",
+              "DocumentMoniker": "C:\\Users\\serpe\\source\\repos\\ConsoleApplication1\\HAHNDA WuduawudWUA.cpp",
+              "RelativeDocumentMoniker": "HAHNDA WuduawudWUA.cpp",
+              "ToolTip": "C:\\Users\\serpe\\source\\repos\\ConsoleApplication1\\HAHNDA WuduawudWUA.cpp",
+              "RelativeToolTip": "HAHNDA WuduawudWUA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T05:35:01.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

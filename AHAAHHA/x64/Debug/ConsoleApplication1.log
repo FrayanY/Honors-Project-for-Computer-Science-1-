@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(50,13): warning C4101: 'totalSpheres': unreferenced local variable
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(99,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(184,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(184,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(184,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(241,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(244,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(261,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(262,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(263,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(295,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(296,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(297,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(302,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(303,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\serpe\source\repos\ConsoleApplication1\main.cpp(304,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\serpe\source\repos\ConsoleApplication1\x64\Debug\AHAAHHA.exe
